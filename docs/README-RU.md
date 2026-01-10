@@ -1,5 +1,7 @@
 # Документация Telegram-бота
 
+> [English version](../README.md)
+
 Telegram-бот для платформы интерактивных занятий Interactive Classroom Platform.
 
 ## Описание
@@ -18,4 +20,3 @@ Telegram-бот для интеграции платформы с группов
 - Telegram Bot API
 - Интеграция с Backend API платформы
 - Команды для управления сессиями
-
