@@ -1,5 +1,7 @@
 # Interactive Classroom Telegram Bot
 
+> [Русская версия](docs/README-RU.md)
+
 Telegram bot for the Interactive Classroom Platform - a web application for conducting interactive classes in university auditoriums.
 
 ## Overview
